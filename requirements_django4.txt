@@ -1,0 +1,4 @@
+django==4.2.7
+djangorestframework==3.15.0
+pytest==7.4.3
+pytest-django==4.7.0
